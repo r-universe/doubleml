@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DoubleML"]
+	path = DoubleML
+	url = https://github.com/doubleml/doubleml-for-r
+	shallow = true
+	registered = true

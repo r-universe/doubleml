@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DoubleML",
+    "oncran": true
+  }
+]
